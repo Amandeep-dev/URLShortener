@@ -13,7 +13,7 @@ MicroServices/Springboot
 Redis
 Analytics 
 
-<ul><B>#Run the project</B>
+<B>#Run the project</B>
 
 1. Clone from Git
 2. Create a Docker Environment(install docker-compose)--I used CentOS
@@ -33,4 +33,4 @@ http://<Docker/localhost>:8080/ShortUrl
 #Get Count for the Hits for Short URL
 http://<Docker/localhost>:8080/stats/<ShortUrl>
 7. You can also use Curl commands to test the APIs
-  </ul>
+  
