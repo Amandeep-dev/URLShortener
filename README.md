@@ -34,5 +34,6 @@ http://<Docker/localhost>:8080/<ShortUrl>
   
 #Get Count for the Hits for Short URL
 http://<Docker/localhost>:8080/stats/<ShortUrl>
- 7.You can also use Curl commands to test the APIs
+  
+7.You can also use Curl commands to test the APIs
 
